@@ -10,7 +10,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ## Dataset
 - 40,949 trending US YouTube videos (2017–2018)
-- Source: Kaggle — YouTube Trending Dataset
+- Source: Kaggle - YouTube Trending Dataset
 - Features: views, likes, dislikes, comments, publish time, category
 
 ## Methodology
@@ -25,7 +25,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn
 - Sunday 9am is the optimal publish time for maximum views
 - Music and Gaming get highest median views (1.4M+) when trending
 - Likes have strongest correlation with views (r=0.849)
-- BTS/ibighit achieves 20–26% like rate — 8x the platform average
+- BTS/ibighit achieves 20–26% like rate - 8x the platform average
 - Most videos trend for 5–7 days; 1,205 videos trended 10+ days
 
 ## Key Visuals
@@ -35,6 +35,6 @@ Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ## Business Recommendations
 - Creators: Publish Sunday 9am, target Music/Gaming categories
-- Platform: Gaming is underserved — high views, low promotion
+- Platform: Gaming is underserved - high views, low promotion
 - News & Politics needs engagement features redesign
 - Like rate is a better success metric than raw view count
